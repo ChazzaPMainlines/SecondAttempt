@@ -1,0 +1,5 @@
+{
+  "name": "Infrux: The AIPFF Data Engine",
+  "description": "A sophisticated SaaS tool that acts as a 'Universal Translator' for Project Finance. It provides a 'Smart Data Room' for developers to upload and structure project documents and a 'Query Engine' for investors to instantly analyze deal data and identify risks.",
+  "requestFramePermissions": []
+}
